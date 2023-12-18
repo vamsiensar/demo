@@ -16,6 +16,7 @@ import ProtectedRoute from "./pages/ProtectedRoute";
 // PRACTISING ABOUT GIT
 
 const App = function () {
+  // ADDED REACT ROUTING OVER HERE
   return (
     <AuthProvider>
       <CitiesProvider>
