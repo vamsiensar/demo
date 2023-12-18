@@ -13,6 +13,8 @@ import { CitiesProvider } from "./context/CitiesContext";
 import { AuthProvider } from "./context/FakeAuthContext";
 import ProtectedRoute from "./pages/ProtectedRoute";
 
+// PRACTISING ABOUT GIT
+
 const App = function () {
   return (
     <AuthProvider>
