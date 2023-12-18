@@ -13,8 +13,9 @@ import { CitiesProvider } from "./context/CitiesContext";
 import { AuthProvider } from "./context/FakeAuthContext";
 import ProtectedRoute from "./pages/ProtectedRoute";
 
+// ADDED A NEW COMMENT HERE
+
 const App = function () {
-  // ADDED REACT ROUTING OVER HERE
   return (
     <AuthProvider>
       <CitiesProvider>
