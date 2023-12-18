@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "JP",
+      "date": "2023-11-07T13:19:05.464Z",
+      "notes": "A land of honor",
+      "position": {
+        "lat": "35.66622234103479",
+        "lng": "139.81201171875003"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Ukhimath",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2023-11-07T13:26:37.550Z",
+      "notes": "The Land of Shiva",
+      "position": {
+        "lat": "30.733573157600024",
+        "lng": "79.09194946289064"
+      },
+      "id": 98443202
+    }
+  ]
+}
