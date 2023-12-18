@@ -13,8 +13,6 @@ import { CitiesProvider } from "./context/CitiesContext";
 import { AuthProvider } from "./context/FakeAuthContext";
 import ProtectedRoute from "./pages/ProtectedRoute";
 
-// PRACTISING ABOUT GIT
-
 const App = function () {
   // ADDED REACT ROUTING OVER HERE
   return (
